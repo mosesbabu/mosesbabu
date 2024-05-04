@@ -1,7 +1,7 @@
 
 ---
 
-👋 Hello there! I'm [Your Name], a dedicated developer passionate about crafting innovative solutions and contributing to the open-source community.
+👋 Hello there! I'm Moses, a dedicated developer passionate about crafting innovative solutions and contributing to the open-source community.
 
 ## About Me
 
